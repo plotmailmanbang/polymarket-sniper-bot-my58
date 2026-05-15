@@ -1,4 +1,4 @@
-# 
+# advanced Polymarket Algorithm | backtesting + high-frequency-trading is the best Polymarket algorithm, featuring backtesting and high-frequency-trading. Smart, fast, and optimized
 
 
 
